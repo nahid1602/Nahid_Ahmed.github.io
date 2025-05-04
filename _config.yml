@@ -1,4 +1,9 @@
 title: Nahid Ahmed
 logo: /assets/img/Crop_circle.png
-show_downloads: true
+description: "EEE Graduate | Learner | Optimistic"
+social_links:
+  github: nahid1602
+  linkedin: in/nahid1602
+  email: your.email@example.com
+#show_downloads: true
 theme: jekyll-theme-minimal
