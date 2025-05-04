@@ -1,7 +1,7 @@
 ## Education
 
 **Bangladesh University of Engineering and Technology (BUET)**  
-***Electrical and Electronic Engineering (EEE)***
+Electrical and Electronic Engineering (EEE)
   
 
 ---
