@@ -56,7 +56,7 @@ Developed a tree-based routing protocol to extend network life and improve data 
 ## Contact Me
 
 -  Email: [nahidahmed.buet@gmail.com](mailto:nahidahmed.buet@gmail.com)  
--  LinkedIn: [Nahid Ahmed](https://linkedin.com/in/nahid-ahmed-eee)  
+-  LinkedIn: [Nahid Ahmed](https://www.linkedin.com/in/nahidahmed-eee/)  
 -  GitHub: [Nahid Ahmed](https://github.com/nahid1602)  
 
 ---
