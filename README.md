@@ -1,6 +1,8 @@
-# Nahid Ahmed
+## Education
 
- **Electrical and Electronic Engineering (EEE) Graduate** from **Bangladesh University of Engineering and Technology (BUET)** with a passion for technology, innovation, and continuous learning.
+ **Bangladesh University of Engineering and Technology (BUET)**
+ ***Electrical and Electronic Engineering (EEE)***
+  
 
 ---
 
