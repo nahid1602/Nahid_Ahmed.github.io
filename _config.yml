@@ -1,10 +1,11 @@
-title: Nahid Ahmed
+title: "Nahid Ahmed"
 logo: /assets/img/Crop_circle.png
 description: "EEE Graduate | Learner | Optimistic"
+
 social_links:
-  github: [Nahid Ahmed](https://github.com/nahid1602)
-  linkedin: [Nahid Ahmed](https://www.linkedin.com/in/nahidahmed-eee/)
-  email: [nahidahmed.buet@gmail.com](mailto:nahidahmed.buet@gmail.com)
-    
-#show_downloads: true
+  github: nahid1602
+  linkedin: nahidahmed-eee
+  email: nahidahmed.buet@gmail.com
+
+# show_downloads: true
 theme: jekyll-theme-minimal
