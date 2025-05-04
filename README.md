@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Nahid Ahmed
+# Nahid Ahmed
 
 🎓 **Electrical and Electronic Engineering (EEE) Graduate** from **Bangladesh University of Engineering and Technology (BUET)** with a passion for technology, innovation, and continuous learning.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a motivated and detail-oriented engineering graduate with hands-on experience in embedded systems, simulation tools, and programming. I enjoy building systems, solving real-world problems, and learning new technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Design & Simulation Tools:** AutoCAD, Ansys, CYMEPSAF, Proteus, PSpice, Cisco Packet Tracer  
 - **Programming Languages:** Python, C, C++, MATLAB  
@@ -30,7 +30,6 @@ I'm a motivated and detail-oriented engineering graduate with hands-on experienc
 
 ---
 
-## 🧪 Research & Projects
 
 ### Undergraduate Thesis
 **Energy-Efficient UAV Swarm Monitoring**  
@@ -46,7 +45,7 @@ Developed a tree-based routing protocol to extend network life and improve data 
 
 ---
 
-## 💼 Experience & Activities
+## Experience & Activities
 
 - **Math Instructor** – UDVASH Academic & Admission Care  
 - **Former Joint Secretary** – BUET Math Club  
@@ -54,12 +53,12 @@ Developed a tree-based routing protocol to extend network life and improve data 
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
-- ✉️ Email: [nahidahmed.buet@gmail.com](mailto:nahidahmed.buet@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nahid-ahmed-355489253](https://linkedin.com/in/nahid-ahmed-355489253)  
-- 💻 GitHub: [github.com/nahid1602](https://github.com/nahid1602)  
+-  Email: [nahidahmed.buet@gmail.com](mailto:nahidahmed.buet@gmail.com)  
+-  LinkedIn: [linkedin.com/in/nahid-ahmed-355489253](https://linkedin.com/in/nahid-ahmed-355489253)  
+-  GitHub: [github.com/nahid1602](https://github.com/nahid1602)  
 
 ---
 
-Thanks for visiting my portfolio! 🙏
+Thanks for visiting my portfolio!
