@@ -1,16 +1,16 @@
+---
+
+
+I'm a motivated and detail-oriented engineering graduate with hands-on experience in embedded systems, simulation tools, and programming. I enjoy building systems, solving real-world problems, and learning new technologies.
+
+---
 ## Education
 
 **Bangladesh University of Engineering and Technology (BUET)**  
 Electrical and Electronic Engineering (EEE)
   
 
----
 
-## About Me
-
-I'm a motivated and detail-oriented engineering graduate with hands-on experience in embedded systems, simulation tools, and programming. I enjoy building systems, solving real-world problems, and learning new technologies.
-
----
 
 ## Technical Skills
 
