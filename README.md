@@ -1,6 +1,6 @@
 # Nahid Ahmed
 
-🎓 **Electrical and Electronic Engineering (EEE) Graduate** from **Bangladesh University of Engineering and Technology (BUET)** with a passion for technology, innovation, and continuous learning.
+ **Electrical and Electronic Engineering (EEE) Graduate** from **Bangladesh University of Engineering and Technology (BUET)** with a passion for technology, innovation, and continuous learning.
 
 ---
 
