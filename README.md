@@ -1,7 +1,7 @@
 ---
 
 
-I'm a motivated and detail-oriented engineering graduate with hands-on experience in embedded systems, simulation tools, and programming. I enjoy building systems, solving real-world problems, and learning new technologies.
+Motivated and detail-oriented engineering graduate with hands-on experience in embedded systems, simulation tools, and programming. I enjoy building systems, solving real-world problems, and learning new technologies.
 
 ---
 ## Education
@@ -22,7 +22,7 @@ Electrical and Electronic Engineering (EEE)
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 - [Machine Learning Specialization – DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/W99P6QQKCF96)  
 - [Data Analysis with Python – freeCodeCamp](https://www.freecodecamp.org/certification/Nahid_Ahmed/data-analysis-with-python-v7)  
